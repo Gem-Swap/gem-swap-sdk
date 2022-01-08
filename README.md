@@ -10,7 +10,7 @@ First clone the repository:
 git clone https://github.com/Gem-Swap/gem-swap-sdk.git
 ```
 
-Move into the wakanda-swap-sdk working directory
+Move into the gem-swap-sdk working directory
 
 ```sh
 cd gem-swap-sdk/
